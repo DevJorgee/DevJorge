@@ -4,7 +4,7 @@
 
  • 📚 Interessado em desenvolvimento web.
 
- • ✅ inicialmente interesse em Front-end.
+ • ✅ Inicialmente quero trabalhar com Front-end 
 
  • 💪 Posso colaborar com muita vontade de aprender e melhorar.
 
