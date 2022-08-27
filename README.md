@@ -1,6 +1,6 @@
  ## Olá! Eu sou o DevJorge!
 
- • 🎯 Atualmente estudando Html,Css,Java Script.
+ • 🎯 Hoje estudando Html,Css,Java Script.
 
  • 📚 Interessado em desenvolvimento web.
 
